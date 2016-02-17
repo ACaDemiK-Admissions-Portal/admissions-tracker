@@ -14,7 +14,6 @@ a{
 }
 
 
-
 .navbar-header:active {     
   background: red;
 }
@@ -163,6 +162,17 @@ div.item.active{
   position: relative;
   top: 80px;
 
+}
+
+.login-button{
+  color: white;
+  background: black;
+  position: relative;
+  left: 65px;
+}
+
+.login-button:active{
+  background: red;
 }
 
 /* CUSTOMIZE THE NAVBAR
