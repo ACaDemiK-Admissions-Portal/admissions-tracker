@@ -1,6 +1,6 @@
 # Admissions Tracker
 
-<p> text </p>
+<a href = "https://admissions-portal.herokuapp.com/"> View the Admissions Portal on Heroku </a> 
 
 ### Team Members
 
